@@ -89,10 +89,8 @@
             ],
             "styles": [
               "src/styles.css"
-
             ],
             "scripts": []
-
           }
         },
         "lint": {
@@ -121,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "techno-ltd"
+    }
+  },
+  "defaultProject": "techno-ltd",
+  "cli": {
+    "analytics": "ee5112c6-4f7e-4b6b-9985-178ea7d0d521"
+  }
 }
